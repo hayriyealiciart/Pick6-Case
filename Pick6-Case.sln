@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToonyColorsPro.Editor", "ToonyColorsPro.Editor.csproj", "{912D9320-34D8-BE0F-61CA-F3E4DAA059E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{0B93A220-C3BB-7F77-B5FE-1E2E9E3758D2}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToonyColorsPro.Runtime", "ToonyColorsPro.Runtime.csproj", "{FD70725F-9F02-9190-8B60-8A49C93A553E}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{912D9320-34D8-BE0F-61CA-F3E4DAA059E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{912D9320-34D8-BE0F-61CA-F3E4DAA059E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{912D9320-34D8-BE0F-61CA-F3E4DAA059E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B93A220-C3BB-7F77-B5FE-1E2E9E3758D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B93A220-C3BB-7F77-B5FE-1E2E9E3758D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B93A220-C3BB-7F77-B5FE-1E2E9E3758D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B93A220-C3BB-7F77-B5FE-1E2E9E3758D2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FD70725F-9F02-9190-8B60-8A49C93A553E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FD70725F-9F02-9190-8B60-8A49C93A553E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD70725F-9F02-9190-8B60-8A49C93A553E}.Release|Any CPU.ActiveCfg = Release|Any CPU
