@@ -678,6 +678,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3403584498403177382, guid: 404541889ce401740ae13fa8e854111a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f0dc4ad73a687564b8217ddd52ce026b, type: 2}
     - target: {fileID: 6588410639111358902, guid: 404541889ce401740ae13fa8e854111a, type: 3}
       propertyPath: m_Name
       value: Scifi Player
