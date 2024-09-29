@@ -40,6 +40,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 7879564653120713102}
     m_Modifications:
+    - target: {fileID: -8706779894750968086, guid: 88e5b4c39ed78df40a0cc0582fc28981, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 88e5b4c39ed78df40a0cc0582fc28981, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.28
@@ -95,6 +99,22 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 88e5b4c39ed78df40a0cc0582fc28981, type: 3}
       propertyPath: m_ConstrainProportionsScale
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8208355905343001102, guid: 88e5b4c39ed78df40a0cc0582fc28981, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4271744899662904614, guid: 88e5b4c39ed78df40a0cc0582fc28981, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -603146269841354163, guid: 88e5b4c39ed78df40a0cc0582fc28981, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 317925099618195618, guid: 88e5b4c39ed78df40a0cc0582fc28981, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 88e5b4c39ed78df40a0cc0582fc28981, type: 3}
       propertyPath: m_Name
